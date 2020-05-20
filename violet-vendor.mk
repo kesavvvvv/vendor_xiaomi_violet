@@ -461,7 +461,6 @@ PRODUCT_COPY_FILES += \
     vendor/xiaomi/violet/proprietary/vendor/lib/camera/com.qti.sensormodule.sunny_ov13855.bin:$(TARGET_COPY_OUT_VENDOR)/lib/camera/com.qti.sensormodule.sunny_ov13855.bin \
     vendor/xiaomi/violet/proprietary/vendor/lib/camera/com.qti.sensormodule.sunny_ov2281.bin:$(TARGET_COPY_OUT_VENDOR)/lib/camera/com.qti.sensormodule.sunny_ov2281.bin \
     vendor/xiaomi/violet/proprietary/vendor/lib/camera/com.qti.sensormodule.sunny_s5k2l7.bin:$(TARGET_COPY_OUT_VENDOR)/lib/camera/com.qti.sensormodule.sunny_s5k2l7.bin \
-    vendor/xiaomi/violet/proprietary/vendor/lib/camera/com.qti.sensormodule.sunny_s5k2x5sp.bin:$(TARGET_COPY_OUT_VENDOR)/lib/camera/com.qti.sensormodule.sunny_s5k2x5sp.bin \
     vendor/xiaomi/violet/proprietary/vendor/lib/camera/com.qti.sensormodule.sunny_s5k5e8.bin:$(TARGET_COPY_OUT_VENDOR)/lib/camera/com.qti.sensormodule.sunny_s5k5e8.bin \
     vendor/xiaomi/violet/proprietary/vendor/lib/camera/com.qti.sensormodule.sunny_s5k5e9yu05.bin:$(TARGET_COPY_OUT_VENDOR)/lib/camera/com.qti.sensormodule.sunny_s5k5e9yu05.bin \
     vendor/xiaomi/violet/proprietary/vendor/lib/camera/com.qti.sensormodule.truly_imx476.bin:$(TARGET_COPY_OUT_VENDOR)/lib/camera/com.qti.sensormodule.truly_imx476.bin \
@@ -496,7 +495,6 @@ PRODUCT_COPY_FILES += \
     vendor/xiaomi/violet/proprietary/vendor/lib/camera/com.qti.tuned.sunny_ov13855.bin:$(TARGET_COPY_OUT_VENDOR)/lib/camera/com.qti.tuned.sunny_ov13855.bin \
     vendor/xiaomi/violet/proprietary/vendor/lib/camera/com.qti.tuned.sunny_ov13855_cn.bin:$(TARGET_COPY_OUT_VENDOR)/lib/camera/com.qti.tuned.sunny_ov13855_cn.bin \
     vendor/xiaomi/violet/proprietary/vendor/lib/camera/com.qti.tuned.sunny_s5k2l7.bin:$(TARGET_COPY_OUT_VENDOR)/lib/camera/com.qti.tuned.sunny_s5k2l7.bin \
-    vendor/xiaomi/violet/proprietary/vendor/lib/camera/com.qti.tuned.sunny_s5k2x5sp.bin:$(TARGET_COPY_OUT_VENDOR)/lib/camera/com.qti.tuned.sunny_s5k2x5sp.bin \
     vendor/xiaomi/violet/proprietary/vendor/lib/camera/com.qti.tuned.sunny_s5k5e8.bin:$(TARGET_COPY_OUT_VENDOR)/lib/camera/com.qti.tuned.sunny_s5k5e8.bin \
     vendor/xiaomi/violet/proprietary/vendor/lib/camera/com.qti.tuned.sunny_s5k5e9yu05.bin:$(TARGET_COPY_OUT_VENDOR)/lib/camera/com.qti.tuned.sunny_s5k5e9yu05.bin \
     vendor/xiaomi/violet/proprietary/vendor/lib/camera/com.qti.tuned.truly_ov8856.bin:$(TARGET_COPY_OUT_VENDOR)/lib/camera/com.qti.tuned.truly_ov8856.bin \
@@ -646,7 +644,6 @@ PRODUCT_COPY_FILES += \
     vendor/xiaomi/violet/proprietary/vendor/lib/liblocation_api.so:$(TARGET_COPY_OUT_VENDOR)/lib/liblocation_api.so \
     vendor/xiaomi/violet/proprietary/vendor/lib/libmdmdetect.so:$(TARGET_COPY_OUT_VENDOR)/lib/libmdmdetect.so \
     vendor/xiaomi/violet/proprietary/vendor/lib/libmdsprpc.so:$(TARGET_COPY_OUT_VENDOR)/lib/libmdsprpc.so \
-    vendor/xiaomi/violet/proprietary/vendor/lib/libmialgo_fs.so:$(TARGET_COPY_OUT_VENDOR)/lib/libmialgo_fs.so \
     vendor/xiaomi/violet/proprietary/vendor/lib/libmm-color-convertor.so:$(TARGET_COPY_OUT_VENDOR)/lib/libmm-color-convertor.so \
     vendor/xiaomi/violet/proprietary/vendor/lib/libmm-hdcpmgr.so:$(TARGET_COPY_OUT_VENDOR)/lib/libmm-hdcpmgr.so \
     vendor/xiaomi/violet/proprietary/vendor/lib/libmmcamera_faceproc.so:$(TARGET_COPY_OUT_VENDOR)/lib/libmmcamera_faceproc.so \
@@ -861,7 +858,6 @@ PRODUCT_COPY_FILES += \
     vendor/xiaomi/violet/proprietary/vendor/lib64/camera/com.qti.sensormodule.sunny_ov13855.bin:$(TARGET_COPY_OUT_VENDOR)/lib64/camera/com.qti.sensormodule.sunny_ov13855.bin \
     vendor/xiaomi/violet/proprietary/vendor/lib64/camera/com.qti.sensormodule.sunny_ov2281.bin:$(TARGET_COPY_OUT_VENDOR)/lib64/camera/com.qti.sensormodule.sunny_ov2281.bin \
     vendor/xiaomi/violet/proprietary/vendor/lib64/camera/com.qti.sensormodule.sunny_s5k2l7.bin:$(TARGET_COPY_OUT_VENDOR)/lib64/camera/com.qti.sensormodule.sunny_s5k2l7.bin \
-    vendor/xiaomi/violet/proprietary/vendor/lib64/camera/com.qti.sensormodule.sunny_s5k2x5sp.bin:$(TARGET_COPY_OUT_VENDOR)/lib64/camera/com.qti.sensormodule.sunny_s5k2x5sp.bin \
     vendor/xiaomi/violet/proprietary/vendor/lib64/camera/com.qti.sensormodule.sunny_s5k5e8.bin:$(TARGET_COPY_OUT_VENDOR)/lib64/camera/com.qti.sensormodule.sunny_s5k5e8.bin \
     vendor/xiaomi/violet/proprietary/vendor/lib64/camera/com.qti.sensormodule.sunny_s5k5e9yu05.bin:$(TARGET_COPY_OUT_VENDOR)/lib64/camera/com.qti.sensormodule.sunny_s5k5e9yu05.bin \
     vendor/xiaomi/violet/proprietary/vendor/lib64/camera/com.qti.sensormodule.truly_imx476.bin:$(TARGET_COPY_OUT_VENDOR)/lib64/camera/com.qti.sensormodule.truly_imx476.bin \
@@ -896,7 +892,6 @@ PRODUCT_COPY_FILES += \
     vendor/xiaomi/violet/proprietary/vendor/lib64/camera/com.qti.tuned.sunny_ov13855.bin:$(TARGET_COPY_OUT_VENDOR)/lib64/camera/com.qti.tuned.sunny_ov13855.bin \
     vendor/xiaomi/violet/proprietary/vendor/lib64/camera/com.qti.tuned.sunny_ov13855_cn.bin:$(TARGET_COPY_OUT_VENDOR)/lib64/camera/com.qti.tuned.sunny_ov13855_cn.bin \
     vendor/xiaomi/violet/proprietary/vendor/lib64/camera/com.qti.tuned.sunny_s5k2l7.bin:$(TARGET_COPY_OUT_VENDOR)/lib64/camera/com.qti.tuned.sunny_s5k2l7.bin \
-    vendor/xiaomi/violet/proprietary/vendor/lib64/camera/com.qti.tuned.sunny_s5k2x5sp.bin:$(TARGET_COPY_OUT_VENDOR)/lib64/camera/com.qti.tuned.sunny_s5k2x5sp.bin \
     vendor/xiaomi/violet/proprietary/vendor/lib64/camera/com.qti.tuned.sunny_s5k5e8.bin:$(TARGET_COPY_OUT_VENDOR)/lib64/camera/com.qti.tuned.sunny_s5k5e8.bin \
     vendor/xiaomi/violet/proprietary/vendor/lib64/camera/com.qti.tuned.sunny_s5k5e9yu05.bin:$(TARGET_COPY_OUT_VENDOR)/lib64/camera/com.qti.tuned.sunny_s5k5e9yu05.bin \
     vendor/xiaomi/violet/proprietary/vendor/lib64/camera/com.qti.tuned.truly_ov8856.bin:$(TARGET_COPY_OUT_VENDOR)/lib64/camera/com.qti.tuned.truly_ov8856.bin \
@@ -1068,7 +1063,6 @@ PRODUCT_COPY_FILES += \
     vendor/xiaomi/violet/proprietary/vendor/lib64/libbtnv.so:$(TARGET_COPY_OUT_VENDOR)/lib64/libbtnv.so \
     vendor/xiaomi/violet/proprietary/vendor/lib64/libc++_shared.so:$(TARGET_COPY_OUT_VENDOR)/lib64/libc++_shared.so \
     vendor/xiaomi/violet/proprietary/vendor/lib64/libc2d30_bltlib.so:$(TARGET_COPY_OUT_VENDOR)/lib64/libc2d30_bltlib.so \
-    vendor/xiaomi/violet/proprietary/vendor/lib64/libcam.so:$(TARGET_COPY_OUT_VENDOR)/lib64/libcam.so \
     vendor/xiaomi/violet/proprietary/vendor/lib64/libcamera_nn_stub.so:$(TARGET_COPY_OUT_VENDOR)/lib64/libcamera_nn_stub.so \
     vendor/xiaomi/violet/proprietary/vendor/lib64/libcamera_scene.so:$(TARGET_COPY_OUT_VENDOR)/lib64/libcamera_scene.so \
     vendor/xiaomi/violet/proprietary/vendor/lib64/libcamxfdalgov7.so:$(TARGET_COPY_OUT_VENDOR)/lib64/libcamxfdalgov7.so \
@@ -1148,7 +1142,6 @@ PRODUCT_COPY_FILES += \
     vendor/xiaomi/violet/proprietary/vendor/lib64/libmegface.so:$(TARGET_COPY_OUT_VENDOR)/lib64/libmegface.so \
     vendor/xiaomi/violet/proprietary/vendor/lib64/libmeters-ns.so:$(TARGET_COPY_OUT_VENDOR)/lib64/libmeters-ns.so \
     vendor/xiaomi/violet/proprietary/vendor/lib64/libmeters.so:$(TARGET_COPY_OUT_VENDOR)/lib64/libmeters.so \
-    vendor/xiaomi/violet/proprietary/vendor/lib64/libmialgo_fs.so:$(TARGET_COPY_OUT_VENDOR)/lib64/libmialgo_fs.so \
     vendor/xiaomi/violet/proprietary/vendor/lib64/libmibokeh_660.so:$(TARGET_COPY_OUT_VENDOR)/lib64/libmibokeh_660.so \
     vendor/xiaomi/violet/proprietary/vendor/lib64/libmlipay.so:$(TARGET_COPY_OUT_VENDOR)/lib64/libmlipay.so \
     vendor/xiaomi/violet/proprietary/vendor/lib64/libmlipay@1.1.so:$(TARGET_COPY_OUT_VENDOR)/lib64/libmlipay@1.1.so \
